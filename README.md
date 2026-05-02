@@ -11,7 +11,7 @@ Section:NewButton("FISCH", "Speed hub", function()
 end)
 
 Section:NewButton("99 nights", "99", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
+    loadstring(game:HttpGet("https://rifton.top/loader.lua"))()
 end)
 
 Section:NewButton("Muscle legend", "Speed hub", function()
