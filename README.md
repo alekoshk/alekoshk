@@ -10,8 +10,8 @@ Section:NewButton("FISCH", "Speed hub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
 
-Section:NewButton("Speedhubx 99", "99", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+Section:NewButton("99 nights", "99", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
 end)
 
 Section:NewButton("Muscle legend", "Speed hub", function()
