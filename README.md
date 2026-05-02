@@ -10,8 +10,8 @@ Section:NewButton("FISCH", "Speed hub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
 
-Section:NewButton("Speedhubx", "MESAAB", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+Section:NewButton("Speedhubx 99", "99", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
 
 Section:NewButton("Muscle legend", "Speed hub", function()
@@ -36,4 +36,8 @@ end)
 
 Section:NewButton("BSS", "Atlas", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Chris12089/atlasbss/main/script.lua"))()
+end)
+
+Section:NewButton("Strongest", "SBG", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 end)
