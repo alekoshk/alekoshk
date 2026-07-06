@@ -1,3 +1,5 @@
+loadstring(game:HttpGet('https://dev.syntrx.xyz/b/69ddbee05bd13fcaaadb8179'))()
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/DenDenZZZ/Kavo-UI-Library/main/Kavo.lua"))()
 
 local Window = Library.CreateLib("by alekoshk", "Synapse")
